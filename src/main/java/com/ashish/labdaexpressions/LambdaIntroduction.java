@@ -3,11 +3,19 @@ package com.ashish.labdaexpressions;
 public class LambdaIntroduction {
 	/*
 	 * 1: Lambda Expressions kind a looks like anonymous inner class, the concept of
-	 * both kind a is same but they both are different. 2: Developers uses interface
-	 * with lambdas to offer backward compatibility. We could use old interfaces and
-	 * use lambdas to define their behavior . 3: Java 8 has interface with abstract
-	 * and non-abstract methods. To avoid confusion they introduce functional
-	 * interface to have just one abstract method. Put @FunctionalInterface on top of interface.
+	 * both kind a is same but they both are different.
+	 * 
+	 * 2: Developers uses interface with lambdas to offer backward compatibility. We
+	 * could use old interfaces and use lambdas to define their behavior.
+	 * 
+	 * 3: Java 8 has interface with abstract and non-abstract methods. To avoid
+	 * confusion they introduce functional interface to have just one abstract
+	 * method. Put @FunctionalInterface on top of interface.
+	 * 
+	 * 4: Anonymous inner class creates a separate object and space. Lambdas can't
+	 * do that. In lambda you can't override the object class methods and use "this"
+	 * as a reference. In AIC we could do all of that. AIC creates separate object.
+	 * But lambdas use reference to same object instance.
 	 */
 
 	public void instanceMethod() {
