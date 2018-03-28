@@ -6,8 +6,8 @@ import java.util.List;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.ashish.labdaexpressions.LambdaExcercise1;
-import com.ashish.labdaexpressions.Person;
+import com.java.labdaexpressions.LambdaExcercise1;
+import com.java.labdaexpressions.Person;
 
 public class LambdaExcercise1Test {
 	private LambdaExcercise1 sut;

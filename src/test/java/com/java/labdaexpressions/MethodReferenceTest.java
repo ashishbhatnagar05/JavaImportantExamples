@@ -3,7 +3,7 @@ package com.java.labdaexpressions;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.ashish.labdaexpressions.MethodReference;
+import com.java.labdaexpressions.MethodReference;
 
 
 public class MethodReferenceTest {

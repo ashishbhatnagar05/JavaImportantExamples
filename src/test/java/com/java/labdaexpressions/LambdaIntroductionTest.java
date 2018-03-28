@@ -3,7 +3,7 @@ package com.java.labdaexpressions;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.ashish.labdaexpressions.LambdaIntroduction;
+import com.java.labdaexpressions.LambdaIntroduction;
 
 public class LambdaIntroductionTest {
 

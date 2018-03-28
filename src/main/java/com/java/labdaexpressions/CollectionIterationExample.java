@@ -1,4 +1,4 @@
-package com.ashish.labdaexpressions;
+package com.java.labdaexpressions;
 
 import java.util.List;
 

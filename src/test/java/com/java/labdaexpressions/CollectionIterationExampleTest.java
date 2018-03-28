@@ -6,8 +6,8 @@ import java.util.List;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.ashish.labdaexpressions.CollectionIterationExample;
-import com.ashish.labdaexpressions.Person;
+import com.java.labdaexpressions.CollectionIterationExample;
+import com.java.labdaexpressions.Person;
 
 public class CollectionIterationExampleTest {
 

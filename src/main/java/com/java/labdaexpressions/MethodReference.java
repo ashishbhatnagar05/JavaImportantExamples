@@ -1,4 +1,4 @@
-package com.ashish.labdaexpressions;
+package com.java.labdaexpressions;
 
 public class MethodReference {
 
